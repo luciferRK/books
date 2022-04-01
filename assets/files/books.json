@@ -1,7 +1,7 @@
 [
     {
         "name":"Harry Potter - Prisoner of Askaban",
-        "image":"../../assets/images/books/hp3.jpg",
+        "image":"books/assets/images/books/hp3.jpg",
         "rating":5,
         "description":["For twelve long years, the dread fortress of Azkaban held an infamous prisoner named Sirius Black. Convicted of killing thirteen people with a single curse, he was said to be the heir apparent to the Dark Lord, Voldemort.",
         "Now he has escaped, leaving only two clues as to where he might be headed: Harry Potter's defeat of You-Know-Who was Black's downfall as well. And the Azkaban guards heard Black muttering in his sleep, \"He's at Hogwarts . . . he's at Hogwarts.\""],
@@ -11,7 +11,7 @@
     },
     {
         "name":"Harry Potter - Chamber of Secrets",
-        "image":"../../assets/images/books/hp2.jpg",
+        "image":"books/assets/images/books/hp2.jpg",
         "rating":5,
         "description":["Ever since Harry Potter had come home for the summer, the Dursleys had been so mean and hideous that all Harry wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he’s packing his bags, Harry receives a warning from a strange impish creature who says that if Harry returns to Hogwarts, disaster will strike.",
         "And strike it does. For in Harry’s second year at Hogwarts, fresh torments and horrors arise, including an outrageously stuck-up new professor and a spirit who haunts the girls’ bathroom. But then the real trouble begins – someone is turning Hogwarts students to stone."],
@@ -21,7 +21,7 @@
     },
     {
         "name":"Harry Potter - Sorcerer's Stone",
-        "image":"../../assets/images/books/hp1.jpg",
+        "image":"books/assets/images/books/hp1.jpg",
         "rating":5,
         "description":["Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.",
         "After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived...."],
@@ -32,7 +32,7 @@
     },
     {
         "name":"Concrete Island",
-        "image":"../../assets/images/books/concrete_island.jpg",
+        "image":"books/assets/images/books/concrete_island.jpg",
         "rating":3,
         "description":["On a day in April, just after three o'clock in the afternoon, Robert Maitland's car crashes over the concrete parapet of a high-speed highway onto the island below, where he is injured and, finally, trapped. What begins as an almost ludicrous predicament in Concrete Island soon turns into horror as Maitland - a wickedly modern Robinson Crusoe - realizes that, despite evidence of other inhabitants, this doomed terrain has become a mirror of his own mind. Seeking the dark outer rim of the everyday, Ballard weaves private catastrophe into an intensely specular allegory"],
         "review":["Picked it up at random, But in honest opinion, felt like a weird book, I cannot put this book in a particular genre under fiction",
@@ -43,7 +43,7 @@
     },
     {
         "name":"The Map of Tiny Perfect Things",
-        "image":"../../assets/images/books/tiny_perfect_things.jpg",
+        "image":"books/assets/images/books/tiny_perfect_things.jpg",
         "rating":4.5,
         "description":[""],
         "review":["It was kinda cute, But way better explanation of how things ended rather than in the movie, I had not realized that the book was too short, until I was halfway through",
@@ -54,7 +54,7 @@
     },
     {
         "name":"The Cheat Sheet",
-        "image":"../../assets/images/books/cheat_sheet.jpg",
+        "image":"books/assets/images/books/cheat_sheet.jpg",
         "rating":4,
         "description":["Hi, my name is Bree Camden, and I’m hopelessly in love with my best friend and star quarterback Nathan Donelson (so is half of America, judging by the tabloids and how much the guy dates). The first step is admitting, right? Except, I can never admit it to him because he clearly doesn’t see me that way, and the last thing I want is for things to get weird between us.",
         "Nothing but good old-fashioned, no-touching-the-sexiest-man-alive, platonic friendship for us! Everything is exactly how I like it! Yes. Good. (I’m not crying, I’m just peeling an onion.)"],
@@ -65,7 +65,7 @@
     },
     {
         "name":"Death on the Nile",
-        "image":"../../assets/images/books/death_on_the_nile.jpg",
+        "image":"books/assets/images/books/death_on_the_nile.jpg",
         "rating":5,
         "description":["The tranquility of a cruise along the Nile was shattered by the discovery that Linnet Ridgeway had been shot through the head. She was young, stylish, and beautiful. A girl who had everything . . . until she lost her life.",
         "Hercule Poirot recalled an earlier outburst by a fellow passenger: \"I'd like to put my dear little pistol against her head and just press the trigger.\" Yet in this exotic setting nothing is ever quite what it seems."],
@@ -76,7 +76,7 @@
     },
     {
         "name":"Ready Player One",
-        "image":"../../assets/images/books/ready_player_one.jpg",
+        "image":"books/assets/images/books/ready_player_one.jpg",
         "rating":5,
         "description":["In the year 2044, reality is an ugly place. The only time teenage Wade Watts really feels alive is when he's jacked into the virtual utopia known as the OASIS. Wade's devoted his life to studying the puzzles hidden within this world's digital confines, puzzles that are based on their creator's obsession with the pop culture of decades past and that promise massive power and fortune to whoever can unlock them. When Wade stumbles upon the first clue, he finds himself beset by players willing to kill to take this ultimate prize. The race is on, and if Wade's going to survive, he'll have to win—and confront the real world he's always been so desperate to escape."],
         "review":["Just Awesome, I had seen the movie 3 years back So I had thought I'll be just reading a more detailed story of that, for my surprise, the movie, and the book are not the same at all, maybe around 8-10% it's same, then the whole thing is a different thing",
@@ -86,7 +86,7 @@
     },
     {
         "name":"Dark Matter",
-        "image":"../../assets/images/books/dark_matter.jpg",
+        "image":"books/assets/images/books/dark_matter.jpg",
         "rating":5,
         "description":["'Are you happy in your life?' Those are the last words Jason Dessen hears before the masked abductor knocks him unconscious. Before he awakes to find himself strapped to a gurney, surrounded by strangers in hazmat suits. Before the man he's never met smiles down at him and says, 'Welcome back.'",
         "In this world he's woken up to, Jason's life is not the one he knows. His wife is not his wife. His son was never born. And Jason is not an ordinary college physics professor, but a celebrated genius who has achieved something remarkable. Something impossible."],
@@ -97,7 +97,7 @@
     },
     {
         "name":"Artemis",
-        "image":"../../assets/images/books/artemis.jpg",
+        "image":"books/assets/images/books/artemis.jpg",
         "rating":5,
         "description":["Jazz Bashara is a criminal.",
         "Well, sort of. Life on Artemis, the first and only city on the moon, is tough if you're not a rich tourist or an eccentric billionaire. So smuggling in the occasional harmless bit of contraband barely counts, right? Not when you've got debts to pay and your job as a porter barely covers the rent.",
@@ -109,7 +109,7 @@
     },
     {
         "name":"Five Total Strangers",
-        "image":"../../assets/images/books/five_total_strangers.jpg",
+        "image":"books/assets/images/books/five_total_strangers.jpg",
         "rating":4,
         "description":["When Mira flies home to spend Christmas with her mother in Pittsburgh, a record-breaking blizzard results in a cancelled layover. Desperate to get to her grief-ridden mother in the wake of a family death, Mira hitches a ride with a group of friendly college kids who were on her initial flight.",
                         "As the drive progresses and weather conditions become more treacherous, Mira realizes that the four other passengers she's stuck in the car with don't actually know one another.",        
@@ -122,7 +122,7 @@
     },
     {
         "name":"The 7 1/2 Deaths of Evelyn Hardcastle",
-        "image":"../../assets/images/books/evelyn_hardcastle.jpg",
+        "image":"books/assets/images/books/evelyn_hardcastle.jpg",
         "rating":5,
         "description":["Aiden Bishop knows the rules. Evelyn Hardcastle will die every day until he can identify her killer and break the cycle. But every time the day begins again, Aiden wakes up in the body of a different guest at Blackheath Manor. And some of his hosts are more helpful than others. With a locked room mystery that Agatha Christie would envy, Stuart Turton unfurls a breakneck novel of intrigue and suspense.",
         "For fans of Claire North, and Kate Atkinson, The 7½ Deaths of Evelyn Hardcastle is a breathlessly addictive mystery that follows one man's race against time to find a killer, with an astonishing time-turning twist that means nothing and no one are quite what they seem."],
@@ -134,7 +134,7 @@
     },
     {
         "name":"Project Hail Mary",
-        "image":"../../assets/images/books/project_hail_mary.jpg",
+        "image":"books/assets/images/books/project_hail_mary.jpg",
         "rating":5,
         "description":["Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and Earth itself will perish.",
         "Except that right now, he doesn't know that. He can't even remember his own name, let alone the nature of his assignment or how to complete it.",
@@ -147,7 +147,7 @@
     },
     {
         "name":"And Then There were None",
-        "image":"../../assets/images/books/and_then_there_were_none.jpg",
+        "image":"books/assets/images/books/and_then_there_were_none.jpg",
         "rating":4,
         "description":["The 10 strangers include a reckless playboy, a troubled Harley Street doctor, a formidable judge, an uncouth detective, an unscrupulous mercenary, a God-fearing spinster, two restless servants, a highly decorated general and an anxious secretary. One by one they are picked off. Who will survive? And who is the killer? Copies of an ominous nursery rhyme hang in each room, the murders mimicking the awful fates of its ‘Ten Little Soldier Boys’."],
         "review":["My first Agatha Christie book, (have watched Murder of Orient Express but didn't read). Story was neat but I felt a bit of injustice for some characters. Until the end of all chapters I was still in suspense tho",
@@ -157,7 +157,7 @@
     },
     {
         "name":"Anxious People",
-        "image":"../../assets/images/books/Anxious_People.jpg",
+        "image":"books/assets/images/books/Anxious_People.jpg",
         "rating":4.5,
         "description":["In a small town in Sweden, it appears to be an ordinary day. But look more closely, and you'll see a mysterious masked figure approaching a bank . . .",
                         "Two hours later, chaos has descended.",
@@ -170,7 +170,7 @@
     },
     {
         "name":"Gone Girl",
-        "image":"../../assets/images/books/gone-girl.jpg",
+        "image":"books/assets/images/books/gone-girl.jpg",
         "rating":5,
         "description":["Marriage can be a real killer.",
                       "On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne’s fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick’s clever and beautiful wife disappears from their rented McMansion on the Mississippi River. Husband-of-the-Year Nick isn’t doing himself any favors with cringe-worthy daydreams about the slope and shape of his wife’s head, but passages from Amy's diary reveal the alpha-girl perfectionist could have put anyone dangerously on edge...."],
@@ -181,7 +181,7 @@
     },
     {
         "name":"One of us is Lying",
-        "image":"../../assets/images/books/one_of_us_is_lying.jpg",
+        "image":"books/assets/images/books/one_of_us_is_lying.jpg",
         "rating":5,
         "description":["On Monday afternoon, five students at Bayview High walk into detention. Bronwyn, the brain, is Yale-bound and never breaks a rule. Addy, the beauty, is the picture-perfect homecoming princess. Nate, the criminal, is already on probation for dealing. Cooper, the athlete, is the all-star baseball pitcher. And Simon, the outcast, is the creator of Bayview High's notorious gossip app.",
                       "Everyone has secrets, right? What really matters is how far you would go to protect them."],
@@ -195,7 +195,7 @@
     ,
     {
         "name":"Say You're Sorry",
-        "image":"../../assets/images/books/say_youre_sorry.jpg",
+        "image":"books/assets/images/books/say_youre_sorry.jpg",
         "rating":0,
         "description":["There is a serial killer on the loose, preying on vulnerable women. The only identifiable mark the killer leaves are letters—sometimes one, sometimes two—all carved into the torsos of his victims. Together they spell “Sydney.”",
                         "When he grabs Daisy Dawson, he believes he has found his next victim. But despite her small stature, she fights back with an expertise that quickly frees her. Before fleeing the scene, Daisy also manages to grab what proves to be crucial evidence: a necklace from around the killer’s neck...."],
@@ -205,7 +205,7 @@
     },
     {
         "name":"Manacled",
-        "image":"../../assets/images/books/manacled.jpg",
+        "image":"books/assets/images/books/manacled.jpg",
         "rating":0,
         "description":["Harry Potter is dead. In the aftermath of the war, in order to strengthen the might of the magical world, Voldemort enacts a repopulation effort. Hermione Granger has an Order secret, lost but hidden in her mind, so she is sent as an enslaved surrogate to the High Reeve, to be bred and monitored until her mind can be cracked...."],
         "review":[],
