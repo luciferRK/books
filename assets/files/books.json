@@ -1,0 +1,215 @@
+[
+    {
+        "name":"Harry Potter - Prisoner of Askaban",
+        "image":"../../assets/images/books/hp3.jpg",
+        "rating":5,
+        "description":["For twelve long years, the dread fortress of Azkaban held an infamous prisoner named Sirius Black. Convicted of killing thirteen people with a single curse, he was said to be the heir apparent to the Dark Lord, Voldemort.",
+        "Now he has escaped, leaving only two clues as to where he might be headed: Harry Potter's defeat of You-Know-Who was Black's downfall as well. And the Azkaban guards heard Black muttering in his sleep, \"He's at Hogwarts . . . he's at Hogwarts.\""],
+        "review":["Yet to write, Didnt find time"],
+        "category":"read",
+        "genre":["Fantasy","Fiction"]
+    },
+    {
+        "name":"Harry Potter - Chamber of Secrets",
+        "image":"../../assets/images/books/hp2.jpg",
+        "rating":5,
+        "description":["Ever since Harry Potter had come home for the summer, the Dursleys had been so mean and hideous that all Harry wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he’s packing his bags, Harry receives a warning from a strange impish creature who says that if Harry returns to Hogwarts, disaster will strike.",
+        "And strike it does. For in Harry’s second year at Hogwarts, fresh torments and horrors arise, including an outrageously stuck-up new professor and a spirit who haunts the girls’ bathroom. But then the real trouble begins – someone is turning Hogwarts students to stone."],
+        "review":["Yet to write, Didnt find time"],
+        "category":"read",
+        "genre":["Fantasy","Fiction"]
+    },
+    {
+        "name":"Harry Potter - Sorcerer's Stone",
+        "image":"../../assets/images/books/hp1.jpg",
+        "rating":5,
+        "description":["Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.",
+        "After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived...."],
+        "review":["I had thought I read this book before, but I got to know that I started the book but never finished it, but however, this was the first book I even tried to read. Just beautiful book, I have seen the movies a lot of times but as I kept reading, I literally forgot the movie 😆😆",
+                "Looking forward for the rest of the books!!"],
+        "category":"read",
+        "genre":["Fantasy","Fiction"]
+    },
+    {
+        "name":"Concrete Island",
+        "image":"../../assets/images/books/concrete_island.jpg",
+        "rating":3,
+        "description":["On a day in April, just after three o'clock in the afternoon, Robert Maitland's car crashes over the concrete parapet of a high-speed highway onto the island below, where he is injured and, finally, trapped. What begins as an almost ludicrous predicament in Concrete Island soon turns into horror as Maitland - a wickedly modern Robinson Crusoe - realizes that, despite evidence of other inhabitants, this doomed terrain has become a mirror of his own mind. Seeking the dark outer rim of the everyday, Ballard weaves private catastrophe into an intensely specular allegory"],
+        "review":["Picked it up at random, But in honest opinion, felt like a weird book, I cannot put this book in a particular genre under fiction",
+        "The story went well up to some point, from where I felt hell broke loose or something like that. Again I don't know what happens when you are in some particular situations.",
+        "So overall, not bad"],
+        "category":"read",
+        "genre":["Fiction"]
+    },
+    {
+        "name":"The Map of Tiny Perfect Things",
+        "image":"../../assets/images/books/tiny_perfect_things.jpg",
+        "rating":4.5,
+        "description":[""],
+        "review":["It was kinda cute, But way better explanation of how things ended rather than in the movie, I had not realized that the book was too short, until I was halfway through",
+        "The concept of people, tiny things that happen daily was shown very well",
+        "Definitely worth reading though!!"],
+        "category":"read",
+        "genre":["YA","Fantasy"]
+    },
+    {
+        "name":"The Cheat Sheet",
+        "image":"../../assets/images/books/cheat_sheet.jpg",
+        "rating":4,
+        "description":["Hi, my name is Bree Camden, and I’m hopelessly in love with my best friend and star quarterback Nathan Donelson (so is half of America, judging by the tabloids and how much the guy dates). The first step is admitting, right? Except, I can never admit it to him because he clearly doesn’t see me that way, and the last thing I want is for things to get weird between us.",
+        "Nothing but good old-fashioned, no-touching-the-sexiest-man-alive, platonic friendship for us! Everything is exactly how I like it! Yes. Good. (I’m not crying, I’m just peeling an onion.)"],
+        "review":["This was my first romance book. It was cute I think, but more than I felt it was funny. Some places felt too much but I guess it was needed. As it was my first book in this category I would give 4.5",
+        "Ending will be what you expect, but I felt it was better than what I expected"],
+        "category":"read",
+        "genre":["Romance","Contemporary"]
+    },
+    {
+        "name":"Death on the Nile",
+        "image":"../../assets/images/books/death_on_the_nile.jpg",
+        "rating":5,
+        "description":["The tranquility of a cruise along the Nile was shattered by the discovery that Linnet Ridgeway had been shot through the head. She was young, stylish, and beautiful. A girl who had everything . . . until she lost her life.",
+        "Hercule Poirot recalled an earlier outburst by a fellow passenger: \"I'd like to put my dear little pistol against her head and just press the trigger.\" Yet in this exotic setting nothing is ever quite what it seems."],
+        "review":["Neat story as usual, The mystery was very well throughout the book. Characters were very neatly written.",        
+        "Overall a damn good mystery book 💯💯"],
+        "category":"read",
+        "genre":["Crime","Mystery"]
+    },
+    {
+        "name":"Ready Player One",
+        "image":"../../assets/images/books/ready_player_one.jpg",
+        "rating":5,
+        "description":["In the year 2044, reality is an ugly place. The only time teenage Wade Watts really feels alive is when he's jacked into the virtual utopia known as the OASIS. Wade's devoted his life to studying the puzzles hidden within this world's digital confines, puzzles that are based on their creator's obsession with the pop culture of decades past and that promise massive power and fortune to whoever can unlock them. When Wade stumbles upon the first clue, he finds himself beset by players willing to kill to take this ultimate prize. The race is on, and if Wade's going to survive, he'll have to win—and confront the real world he's always been so desperate to escape."],
+        "review":["Just Awesome, I had seen the movie 3 years back So I had thought I'll be just reading a more detailed story of that, for my surprise, the movie, and the book are not the same at all, maybe around 8-10% it's same, then the whole thing is a different thing",
+        "I was just so excited throughout the book, I just loved it!"],
+        "category":"read",
+        "genre":["Sci-Fi","Fiction"]
+    },
+    {
+        "name":"Dark Matter",
+        "image":"../../assets/images/books/dark_matter.jpg",
+        "rating":5,
+        "description":["'Are you happy in your life?' Those are the last words Jason Dessen hears before the masked abductor knocks him unconscious. Before he awakes to find himself strapped to a gurney, surrounded by strangers in hazmat suits. Before the man he's never met smiles down at him and says, 'Welcome back.'",
+        "In this world he's woken up to, Jason's life is not the one he knows. His wife is not his wife. His son was never born. And Jason is not an ordinary college physics professor, but a celebrated genius who has achieved something remarkable. Something impossible."],
+        "review":["Damn the concept of Multiverse and Dimensions, Goddamn the twists, unexpected twists and turns phew. This book is making me rethink my whole life btw 😅",
+        "Just mind-blowing, Any Sci-Fi fan, must must read this book"],
+        "category":"read",
+        "genre":["Sci-Fi","Mystery"]
+    },
+    {
+        "name":"Artemis",
+        "image":"../../assets/images/books/artemis.jpg",
+        "rating":5,
+        "description":["Jazz Bashara is a criminal.",
+        "Well, sort of. Life on Artemis, the first and only city on the moon, is tough if you're not a rich tourist or an eccentric billionaire. So smuggling in the occasional harmless bit of contraband barely counts, right? Not when you've got debts to pay and your job as a porter barely covers the rent.",
+        "Everything changes when Jazz sees the chance to commit the perfect crime, with a reward too lucrative to turn down. But pulling off the impossible is just the start of her problems, as she learns that she's stepped square into a conspiracy for control of Artemis itself—and that now, her only chance at survival lies in a gambit even riskier than the first."],
+        "review":["Story wise was Awesome, even though I felt in some parts \"what in the world\" but it was okay. Happy ending as always but the best part is humor, even in the most serious moments the humor is just damn nice",
+        "Would recommend it to anyone who likes sci-fi!!"],
+        "category":"read",
+        "genre":["Sci-Fi","Space"]
+    },
+    {
+        "name":"Five Total Strangers",
+        "image":"../../assets/images/books/five_total_strangers.jpg",
+        "rating":4,
+        "description":["When Mira flies home to spend Christmas with her mother in Pittsburgh, a record-breaking blizzard results in a cancelled layover. Desperate to get to her grief-ridden mother in the wake of a family death, Mira hitches a ride with a group of friendly college kids who were on her initial flight.",
+                        "As the drive progresses and weather conditions become more treacherous, Mira realizes that the four other passengers she's stuck in the car with don't actually know one another.",        
+                        "Soon, they're not just dealing with heavy snowfall and ice-slick roads, but the fact that somebody will stop at nothing to ensure their trip ends in a deadly disaster."],
+        "review":["Neat and clean thriller I can say!! Picked up this book randomly but was worth it..",
+        "Title is definitely awesome with respect to the story, Very neatly written story",
+        "If you want anything for a quick read, You can surely read this, Nothing is as it seems though ; )"],
+        "category":"read",
+        "genre":["Thriller","YA","Mystery"]
+    },
+    {
+        "name":"The 7 1/2 Deaths of Evelyn Hardcastle",
+        "image":"../../assets/images/books/evelyn_hardcastle.jpg",
+        "rating":5,
+        "description":["Aiden Bishop knows the rules. Evelyn Hardcastle will die every day until he can identify her killer and break the cycle. But every time the day begins again, Aiden wakes up in the body of a different guest at Blackheath Manor. And some of his hosts are more helpful than others. With a locked room mystery that Agatha Christie would envy, Stuart Turton unfurls a breakneck novel of intrigue and suspense.",
+        "For fans of Claire North, and Kate Atkinson, The 7½ Deaths of Evelyn Hardcastle is a breathlessly addictive mystery that follows one man's race against time to find a killer, with an astonishing time-turning twist that means nothing and no one are quite what they seem."],
+        "review":["I never thought this would be such a damn good book, The mystery throughout the story was damn good, I literally couldn't guess anything that would come next. The way every turn and twist was written was just neat and awesome!!",
+        "I would suggest this to anyone who likes Fantasy, Mystery.",
+        "I can never forget this book though!!!!"],
+        "category":"read",
+        "genre":["Mystery","Fantasy"]
+    },
+    {
+        "name":"Project Hail Mary",
+        "image":"../../assets/images/books/project_hail_mary.jpg",
+        "rating":5,
+        "description":["Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and Earth itself will perish.",
+        "Except that right now, he doesn't know that. He can't even remember his own name, let alone the nature of his assignment or how to complete it.",
+        "All he knows is that he's been asleep for a very, very long time. And he's just been awakened to find himself millions of miles from home, with nothing but two corpses for company....."],
+        "review":["Just Awesome, Goddam Awesome book. Literally the Best Sci Fi Book (I guess it's also the first one) I read. The way even the most serious parts were depicted in a funny yet in a way to indulge you so much.",
+        "Three Fourth of the book, I guessed the ending, But to my Surprise, I was wrong, Damn the ending was completely unexpected, Hats off.",
+        "Never could have guessed that. Would suggest this to anyone who even likes Sci-Fi even a little bit"],
+        "category":"read",
+        "genre":["Sci-Fi","Space"]
+    },
+    {
+        "name":"And Then There were None",
+        "image":"../../assets/images/books/and_then_there_were_none.jpg",
+        "rating":4,
+        "description":["The 10 strangers include a reckless playboy, a troubled Harley Street doctor, a formidable judge, an uncouth detective, an unscrupulous mercenary, a God-fearing spinster, two restless servants, a highly decorated general and an anxious secretary. One by one they are picked off. Who will survive? And who is the killer? Copies of an ominous nursery rhyme hang in each room, the murders mimicking the awful fates of its ‘Ten Little Soldier Boys’."],
+        "review":["My first Agatha Christie book, (have watched Murder of Orient Express but didn't read). Story was neat but I felt a bit of injustice for some characters. Until the end of all chapters I was still in suspense tho",
+                "Overall damn good story"],
+        "category":"read",
+        "genre":["Crime","Mystery"]
+    },
+    {
+        "name":"Anxious People",
+        "image":"../../assets/images/books/Anxious_People.jpg",
+        "rating":4.5,
+        "description":["In a small town in Sweden, it appears to be an ordinary day. But look more closely, and you'll see a mysterious masked figure approaching a bank . . .",
+                        "Two hours later, chaos has descended.",
+                        "A bungled attempted robbery has developed into a hostage situation - and the offender is refusing to communicate their demands to the police.",
+                        "Inside the building, fear quickly turns to irritation for the seven strangers trapped inside. If this is to be their last day on earth, shouldn't it be a bit more dramatic? "],
+        "review":["Beautifully Written, When I started in the beginning didn't feel like I might like, but by the time book ended, it was just beautiful.",
+                    "First Book in Contemporary Genre and I am pretty Impressed by it"],
+        "category":"read",
+        "genre":["Fiction","Contemporary"]
+    },
+    {
+        "name":"Gone Girl",
+        "image":"../../assets/images/books/gone-girl.jpg",
+        "rating":5,
+        "description":["Marriage can be a real killer.",
+                      "On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne’s fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick’s clever and beautiful wife disappears from their rented McMansion on the Mississippi River. Husband-of-the-Year Nick isn’t doing himself any favors with cringe-worthy daydreams about the slope and shape of his wife’s head, but passages from Amy's diary reveal the alpha-girl perfectionist could have put anyone dangerously on edge...."],
+        "review":["Damn, I haven't read many thrillers yet, but this one was just damn. I couldn't even imagine. The way the story just builds up is awesome.",
+                    "Hope no one ends up in a relationship like Nick & Amy. Wasn't exactly satisfied with the ending, But DEFINITELY WORTH READING!!"],
+        "category":"read",
+        "genre":["Fiction","Mystery","Thriller"]
+    },
+    {
+        "name":"One of us is Lying",
+        "image":"../../assets/images/books/one_of_us_is_lying.jpg",
+        "rating":5,
+        "description":["On Monday afternoon, five students at Bayview High walk into detention. Bronwyn, the brain, is Yale-bound and never breaks a rule. Addy, the beauty, is the picture-perfect homecoming princess. Nate, the criminal, is already on probation for dealing. Cooper, the athlete, is the all-star baseball pitcher. And Simon, the outcast, is the creator of Bayview High's notorious gossip app.",
+                      "Everyone has secrets, right? What really matters is how far you would go to protect them."],
+        "review":["This is my first Mystery fiction book. I liked the book a lot as I hadn't much read other mystery books yet. The way the whole story went was pretty interesting because I could not guess what would happen next",
+                 "Overall the story was great, the way it is narrated with respect to 4 main characters is what made the book interesting."],
+        "category":"read",
+        "genre":["Mystery","YA"]
+    }
+
+
+    ,
+    {
+        "name":"Say You're Sorry",
+        "image":"../../assets/images/books/say_youre_sorry.jpg",
+        "rating":0,
+        "description":["There is a serial killer on the loose, preying on vulnerable women. The only identifiable mark the killer leaves are letters—sometimes one, sometimes two—all carved into the torsos of his victims. Together they spell “Sydney.”",
+                        "When he grabs Daisy Dawson, he believes he has found his next victim. But despite her small stature, she fights back with an expertise that quickly frees her. Before fleeing the scene, Daisy also manages to grab what proves to be crucial evidence: a necklace from around the killer’s neck...."],
+        "review":[],
+        "category":"toread",
+        "genre":["Rom Suspense","Thriller","Romance"]
+    },
+    {
+        "name":"Manacled",
+        "image":"../../assets/images/books/manacled.jpg",
+        "rating":0,
+        "description":["Harry Potter is dead. In the aftermath of the war, in order to strengthen the might of the magical world, Voldemort enacts a repopulation effort. Hermione Granger has an Order secret, lost but hidden in her mind, so she is sent as an enslaved surrogate to the High Reeve, to be bred and monitored until her mind can be cracked...."],
+        "review":[],
+        "category":"toread",
+        "genre":["FanFic","Fantasy","Dark"]
+    }
+]
