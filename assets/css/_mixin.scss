@@ -1,0 +1,137 @@
+@use "./colors" as color;
+
+@mixin cubic_transition() {
+    -webkit-transition: all 0.3s cubic-bezier(.25, .1, .25, 1) !important;
+    -moz-transition: all 0.3s cubic-bezier(.25, .1, .25, 1) !important;
+    -o-transition: all 0.3s cubic-bezier(.25, .1, .25, 1) !important;
+    -ms-transition: all 0.3s cubic-bezier(.25, .1, .25, 1) !important;
+    transition: all 0.3s cubic-bezier(.25, .1, .25, 1) !important;
+}
+
+@mixin bars() {
+    .bars {
+        position: fixed;
+        top: 1.5rem;
+        right: 1.5rem;
+        cursor: pointer;
+        margin: auto;
+        display: flex;
+        flex-direction: column !important;
+        height: 30px;
+        padding: 5px;
+        justify-content: space-between;
+        border: none;
+        z-index: 101011;
+        @include cubic_transition();
+        box-sizing: unset;
+    
+        * {
+            box-sizing: unset;
+        }
+    }
+    
+    
+    .bar-1,
+    .bar-2,
+    .bar-3 {
+        height: 3px;
+        width: 30px;
+        background-color: color.$white;
+        transition: all 0.2s ease-in-out;
+    }
+    
+    .bar-1 {
+        transform: rotate(-45deg) translate(-0.5em, 0.2em);
+        width: 20px;
+    }
+    
+    .bar-3 {
+        transform: rotate(45deg) translate(-0.4em, -0.2em);
+        width: 20px;
+    }
+
+    @media only screen and (min-width:250px) and (max-width:520px) {
+        .bars {
+            top: 20px;
+            right: 15px;
+        }
+    }
+}
+
+@mixin preloader() {
+    .preloader {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        overflow: hidden;
+        background-color: color.$background;
+        z-index: 10102010;
+
+        //For Book Pages Loader
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    
+        img {
+            position: absolute;
+            top: 45%;
+            left: 50%;
+            transform: translate(-50%, -45%);
+        }
+    }
+}
+
+@mixin fixed-boxes() {
+    .fixed-boxes {
+        position: fixed;
+        z-index: -100;
+        width: 100%;
+      
+        @media only screen and (max-width:750) {
+          width: 411px;
+        }
+      
+        opacity: 0.2;
+      
+        .fixed-1 {
+          position: relative;
+          top: -150px;
+          left: 70%;
+      
+          @media only screen and (max-width:810px) {
+            top: -120px;
+            left: 50%;
+          }
+      
+          border: color.$white 1px solid;
+          height: 500px;
+          width: 600px;
+          transform: rotate(60deg);
+        }
+      
+        .fixed-2 {
+          position: relative;
+          left: -10%;
+      
+          @media only screen and (max-width:810px) {
+            top: 180px;
+            left: -40%;
+          }
+      
+          border: color.$white 1px solid;
+          height: 500px;
+          width: 600px;
+          transform: rotate(-60deg);
+        }
+      
+        -webkit-transition: all 0.3s cubic-bezier(.25, .1, .25, 1) !important;
+        -moz-transition: all 0.3s cubic-bezier(.25, .1, .25, 1) !important;
+        -o-transition: all 0.3s cubic-bezier(.25, .1, .25, 1) !important;
+        -ms-transition: all 0.3s cubic-bezier(.25, .1, .25, 1) !important;
+        transition: all 0.3s cubic-bezier(.25, .1, .25, 1) !important;
+    }
+}
