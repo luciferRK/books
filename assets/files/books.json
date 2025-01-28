@@ -1,5 +1,37 @@
 [
   {
+    "urlName": "network-effect",
+    "name": "Network Effect",
+    "image": "../../assets/images/books/network_effect.jpg",
+    "rating": 5,
+    "description": [
+      "It calls itself Murderbot, but only when no one can hear. It worries about the fragile human crew who've grown to trust it, but only where no one can see. It tells itself that they're only a professional obligation, but when they're captured and an old friend from the past requires urgent assistance, Murderbot must choose between inertia and drastic action.",
+      "Drastic action it is, then."
+    ],
+    "review": [
+      "It had been a really really long time since I last read the murderbot series. It was a treat. This is the 5th book in the series by Martha wells. There is a very short filler book called Home: Habitat, Range, Niche, Territory before this which is considered to be the 4.5th one. Its length is almost just as much of a chapter. I would suggest you read all the prequels before jumping into this one.",
+      "So imagine this: Murderbot's actually gotten somewhat comfortable working with the human clients (I know, shocking right? But somewhat to be expected after the previous 4 books). It's doing its usual thing, protecting humans while trying to maintain its optimal media watching schedule. But of course, the universe has its own plans.",
+      "This book continues after the previous book with a present situation while showing glimpses of why the current situation ended up being that way. After all the experiences our murderbot had, this one was surprising to its own standards. I had considered that I would be able to guess what this book might be about, but failed to do so. The story continues in Preservation Aux with the original crew when something drastic happens when the murderbot and its humans are suddenly abducted.",
+      "The best part in this book is how the murderbot tries to tackle something with the most humanistic way possible, even though that's what the SecUnit hates the most, it is forced to do so. I loved the way the story was told with the amount of chaos and action involved. This particular adventure brings back someone our murderbot never expected to see again. (If you have read “Artificial Condition”, you might have an idea who I'm talking about). With the introduction of new characters which we were waiting for, maybe not everyone but I was definitely waiting for it, it added a lot of depth and contrast.",
+      "This time we are not dealing with corporate espionage or security threats anymore, we face abandoned colonies, strange technology and threats that could have implications far beyond one station or planet. We already know how our Secunit always insists that it doesn't care about humans? Well this adventure puts that claim to the test. Plus there's a whole new dynamic when it has to work with other AI and bots.",
+      "Without spoiling anything, I can say that “Network Effect” has everything we love about murderbot - the snarky commentary, the reluctant heroics, the media references - but on a bigger scale. The action sequences are more elaborate, the mysteries more complex and the emotional stakes higher than ever. The longer formats allow wells to really explore some of the deeper themes that were touched in the novels. We get to delve into questions about autonomy, identity and what it means to be human in a world where the lines between organic and artificial are increasingly blurry."
+    ],
+    "category": "read",
+    "genre": [
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "author": {
+      "name": "Martha Wells",
+      "instagram": "https://www.instagram.com/marthawellswriter/",
+      "twitter": ""
+    },
+    "buyLinks": {
+      "amazon": "https://amzn.to/4hy79Tl",
+      "amazonAudio": "https://amzn.to/4hefwnj"
+    }
+  },
+  {
     "urlName": "the-good-girls-guide-to-murder",
     "name": "The Good Girl's Guide to Murder",
     "image": "../../assets/images/books/a_good_girls_guide_to_murder.jpg",
