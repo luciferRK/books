@@ -1,5 +1,38 @@
 [
   {
+    "urlName": "fugitive-telemetry",
+    "name": "Fugitive Telemetry",
+    "image": "../../assets/images/books/fugitive_telemetry.png",
+    "rating": 4.5,
+    "description": [
+        "When Murderbot discovers a dead body on Preservation Station, it knows it is going to have to assist station security to determine who the body is (was), how they were killed (that should be relatively straightforward, at least), and why (because apparently that matters to a lot of people—who knew?)",
+        "Yes, the unthinkable is about to happen: Murderbot must voluntarily speak to humans!"
+    ],
+    "review": [
+        "After finishing Network Effect, This novel Fugitive Telemetry, the 6th one in the series of Murderbot, takes a completely different direction. It's the usual our SecUnit hanging out in Preservation chilling and trying to avoid unnecessary human interaction but suddenly something comes up which disrupts our murderbot's routine. This time the murderbot is asked to play detective, working with the station's security to solve the problem.",
+        "What makes this book particularly entertaining is that our murderbot has to cooperate with local law enforcement. I cannot imagine our socially awkward, protocol-hating SecUnit trying to follow proper investigative procedures. It is as hilarious as it sounds. This one gives us a different flavor of murderbot adventure. Instead of our usual high-stakes space action, we get to see the SecUnit applying its security expertise as it does in its name itself. It's like CSI in space but with more sarcasm.",
+        "The station setting allows us to really dig into the daily life of Preservation, something we have only glimpsed before. We get to see how regular humans live in this world, how security actually works when there isn't a crisis, and how Murderbot fits (or doesn't fit) into this relatively peaceful society. It's really fascinating to watch the murderbot navigate station politics and bureaucracy. Our SecUnit might be great at hacking systems and fighting bad guys, but dealing with paperwork and following proper channels? That's another level of challenge.",
+        "The mystery itself is delightfully twisty, with plenty of red herrings and surprising developments. You'll find yourself trying to piece together the clues alongside the protagonist, though it's probably better at it then we mere humans would be.",
+        "Without giving anything away, I can say that Martha Wells continues to expand on the themes of identity, belonging and what it means to be a part of a community. We get to see new sides of the murderbot as it tries to balance its natural inclination for surveillance and security with the station's more open society. It was a really fun novel for me personally, just don't expect the murderbot to be thrilled about filing incident reports."
+    ],
+    "category": "read",
+    "genre": [
+        "Sci-Fi",
+        "Fantasy",
+        "Mystery"
+    ],
+    "author": {
+        "name": "Martha Wells",
+        "instagram": "https://www.instagram.com/marthawellswriter/",
+        "twitter": ""
+    },
+    "synopsis": "When Murderbot discovers a dead body on Preservation Station, it knows it is going to have to assist station security to determine who the body is (was), how they were killed (that should be relatively straightforward, at least), and why (because apparently that matters to a lot of people—who knew?)",
+    "buyLinks": {
+        "amazon": "https://amzn.to/4aH0hAW",
+        "amazonAudio": "https://amzn.to/3Ek3yKi"
+    }
+  },
+  {
     "urlName": "network-effect",
     "name": "Network Effect",
     "image": "../../assets/images/books/network_effect.jpg",
